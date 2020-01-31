@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །གསང་སྔགས་ལམ་འགྲེལ་དང་ཞལ་གདམས་དམར་ཁྲིད་བཅས་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་མཛད།
+  - ༄༅། །པདྨའི་ལམ་རིམ་གྱི་ལོ་རྒྱུས་བཞུགས།
+  sku: SHE-018
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - sabche
+web_metadata:
+  title:
+    en: The Explanation of the Tantric Path and Other Quintessential Instructions
+    bo: གསང་སྔགས་ལམ་འགྲེལ་དང་ཞལ་གདམས་དམར་ཁྲིད་བཅས་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 18
+    bo: ''
+  author:
+    en: Lopon Pema Jungne
+    bo: སློབ་དཔོན་པདྨ་འབྱུང་གནས།པར་འགྲེམས་བྱེད་པོཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  pusblisher:
+    en: Shechen Publications
+    bo: ''
+  sku: SHE-018
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-018.epub
+  description:
+    en: ''
+    bo: ''
