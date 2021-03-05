@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000029
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གསང་སྔགས་ལམ་འགྲེལ་དང་ཞལ་གདམས་དམར་ཁྲིད་བཅས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་མཛད།
   - ༄༅། །པདྨའི་ལམ་རིམ་གྱི་ལོ་རྒྱུས་བཞུགས།
-  sku: SHE-018
   layers:
   - book_title
   - author
   - chapter_title
   - sabche
+  id: SHE-018
 web_metadata:
   title:
     en: The Explanation of the Tantric Path and Other Quintessential Instructions
